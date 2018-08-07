@@ -6,7 +6,8 @@ main.remove()
 
 const newHeader = null;
 
-var victory = document.createElement('h1')
+var victory = document.createElement('H1')
 
 document.body.appendChild(victory)
 
+document.getElementById()
