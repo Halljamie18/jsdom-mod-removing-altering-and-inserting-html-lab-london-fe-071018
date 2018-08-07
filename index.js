@@ -4,10 +4,8 @@ main.remove()
 
 /* Create your new element here and assign it to newHeader */
 
-const newHeader = null;
+const newHeader = document.createElement('H1')
 
-var victory = document.createElement('H1')
-
-document.body.appendChild(victory)
+document.body.appendChild(newHeader)
 
 document.getElementById()
