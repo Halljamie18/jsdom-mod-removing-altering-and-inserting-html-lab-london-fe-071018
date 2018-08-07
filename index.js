@@ -8,6 +8,5 @@ const newHeader = document.createElement('H1')
 
 document.body.appendChild(newHeader)
 
-// document.getElementById()
+newHeader.id = 'victory'
 
-Element.id
