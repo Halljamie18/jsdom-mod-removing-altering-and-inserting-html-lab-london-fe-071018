@@ -10,4 +10,4 @@ document.body.appendChild(newHeader)
 
 newHeader.id = 'victory'
 
-victory. = 'Jamie is the champion!'
+newHeader. = 'Jamie is the champion!'
