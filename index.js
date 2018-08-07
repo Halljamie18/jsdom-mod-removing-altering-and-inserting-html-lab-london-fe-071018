@@ -10,4 +10,3 @@ var victory = document.createElement('h1')
 
 document.body.appendChild(victory)
 
-main.remove()
